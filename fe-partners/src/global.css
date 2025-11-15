@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif !important;
+    background-color: #f4f4f4; /* Exemplo de cor de fundo */
+    color: #333; /* Cor de texto padrão */
+}
